@@ -12,8 +12,6 @@ email: mmhenriques12@gmail.com
 # email_title: Email (Email title override)
 phone: +351 963 244 908
 # phone_title: Phone (Phone title override)
-website: Your website (eg. https://google.com)(optional)
-# website_title: Web (Website title override)
 
 # Dark Mode (true/false/never)
 darkmode: false
@@ -23,32 +21,14 @@ twitter_username: jekyllrb
 github_username:  mmhenriques12
 linkedin_username: marianam-henriques
 
-# Additional icon links
-additional_links:
-- title: Link name
-  icon: Font Awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
-  url: Link url (eg. https://google.com)
-# - title: another link
-#   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
-#   url: Link url (eg. https://google.com)
-
-# Google Analytics and Tag Manager
-# Using more than one of these may cause issues with reporting
-# gtm: "GTM-0000000"
-# gtag: "UA-00000000-0"
-# google_analytics: "UA-00000000-0"
-
 # About Section
 # about_title: About Me (Use this to override about section title)
-about_profile_image: Directory of profile image (eg. images/profile.jpg)
+about_profile_image: "C:\Users\maria\OneDrive\Desktop\1610363054642.jpg"
 about_content: | # this will include new lines to allow paragraphs
-  Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
-
-  You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
-    - Lists
-    - Tables
-    - <a href="google.com">Links</a>
-    - Images ![alt text](/images/landscape-trees.jpg "Trees")
+  Above all, have always been a People enthusiast. Thus, my journey has been about discovering how I can positively impact peoples' lives both in- and outside work. I am commited to building more transparent and human-centric workplaces (& I love seeing how businesses benefit from these!) ❤️ When not doing this, you can find me doing cool things like:
+    - Taking long walks (or simply cuddling) with my dog 🐶 
+    - Roller skating 🛼
+    - Tapestry in weaving for wall decor or ceramics 🎨
 
 content:
   - title: Projects # Title for the section
