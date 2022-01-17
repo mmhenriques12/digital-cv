@@ -17,13 +17,12 @@ phone: +351 963 244 908
 darkmode: false
 
 # Social links
-twitter_username: jekyllrb
 github_username:  mmhenriques12
 linkedin_username: marianam-henriques
 
 # About Section
 # about_title: About Me (Use this to override about section title)
-about_profile_image: "C:\Users\maria\OneDrive\Desktop\1610363054642.jpg"
+about_profile_image: images/1610363054642.jpg
 about_content: | # this will include new lines to allow paragraphs
   Above all, have always been a People enthusiast. Thus, my journey has been about discovering how I can positively impact peoples' lives both in- and outside work. I am commited to building more transparent and human-centric workplaces (& I love seeing how businesses benefit from these!) ❤️ When not doing this, you can find me doing cool things like:
     - Taking long walks (or simply cuddling) with my dog 🐶 
