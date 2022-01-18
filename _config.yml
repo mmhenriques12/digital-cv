@@ -34,7 +34,7 @@ content:
   - title: Work Experience
     layout: list
     content:
-      - layout: left
+      - layout: right
         title: Valispace
         sub_title: Head of People Operations
         caption: May 2021 - present
@@ -44,7 +44,7 @@ content:
         description: | # this will include new lines to allow paragraphs
          Besides hiring and onboarding, I act as the guardian of our People Roadmap and our Culture. Generally speaking, I'm responsible for developing and implementing people-driven eorganizational structures, strategies and programs that help people @ Valispace be happier, more productive and proud of what they do. 
          
-      - layout: left
+      - layout: right
         title: Codacy
         sub_title: Talent Acquisition and People Operations
         caption: May 2021 - present
@@ -53,6 +53,7 @@ content:
           The GitHub for hardware engineering. 
         description: | # this will include new lines to allow paragraphs
           Besides hiring and onboarding, I act as the guardian of our People Roadmap and our Culture. Generally speaking, I'm responsible for developing and implementing people-driven eorganizational structures, strategies and programs that help people @ Valispace be happier, more productive and proud of what they do. 
+  
   - title: Education
     layout: list
     content:
