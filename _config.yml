@@ -24,7 +24,7 @@ linkedin_username: marianam-henriques
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/1610363054642.jpg
 about_content: | # this will include new lines to allow paragraphs
-  My journey so far has been about discovering how I can positively impact peoples' lives both in- and outside work, within the tech🌍 # I am passionate about crafting more transparent and more human-centric workplaces (& I love seeing how businesses benefit from these!) always with amazing people by my side ❤️ # I'm currently doing this at [Valispace](https://www.valispace.com/) 🚀 When not doing this, you can find me doing cool things like:
+  My journey so far has been about discovering how I can positively impact peoples' lives both in- and outside work, within the tech🌍 I am passionate about crafting more transparent and more human-centric workplaces (& I love seeing how businesses benefit from these!) always with smart and awesome people by my side ❤️ Currently doing this at [Valispace](https://www.valispace.com/), otherwise you can find me doing cool stuff like:
   
     - Taking long walks (or simply cuddling) with my dog 🐶 
     - Roller skating 🛼
@@ -34,7 +34,7 @@ content:
   - title: Work Experience
     layout: list
     content:
-      - layout: right
+      - layout: left
         title: Valispace
         sub_title: Head of People Operations
         caption: May 2021 - present
@@ -42,7 +42,17 @@ content:
         quote: >
           The GitHub for hardware engineering. 
         description: | # this will include new lines to allow paragraphs
-          Description of role
+         Besides hiring and onboarding, I act as the guardian of our People Roadmap and our Culture. Generally speaking, I'm responsible for developing and implementing people-driven eorganizational structures, strategies and programs that help people @ Valispace be happier, more productive and proud of what they do. 
+         
+      - layout: left
+        title: Codacy
+        sub_title: Talent Acquisition and People Operations
+        caption: May 2021 - present
+        link: https://www.valispace.com/
+        quote: >
+          The GitHub for hardware engineering. 
+        description: | # this will include new lines to allow paragraphs
+          Besides hiring and onboarding, I act as the guardian of our People Roadmap and our Culture. Generally speaking, I'm responsible for developing and implementing people-driven eorganizational structures, strategies and programs that help people @ Valispace be happier, more productive and proud of what they do. 
   - title: Education
     layout: list
     content:
