@@ -42,35 +42,36 @@ content:
         quote: >
           The GitHub for hardware engineering. 
         description: | # this will include new lines to allow paragraphs
-         Besides hiring and onboarding, I act as the guardian of our People Roadmap and our Culture. Generally speaking, I'm responsible for developing and implementing people-driven eorganizational structures, strategies and programs that help people @ Valispace be happier, more productive and proud of what they do. 
+         Currently helping to build an agile, modern and human People department to guide Valispace's growth 🚀 Besides hiring and onboarding, I'm developing and implementing people-driven strategies and programs that help everyone feel supported and enabled to do their best work. 
          
       - layout: right
         title: Codacy
         sub_title: Talent Acquisition and People Operations
-        caption: May 2021 - present
-        link: https://www.valispace.com/
+        caption: November 2019 - May 2021
+        link: https://www.codacy.com/
         quote: >
-          The GitHub for hardware engineering. 
+          A DevOps Intelligence platform for automated code reviews. 
         description: | # this will include new lines to allow paragraphs
-          Besides hiring and onboarding, I act as the guardian of our People Roadmap and our Culture. Generally speaking, I'm responsible for developing and implementing people-driven eorganizational structures, strategies and programs that help people @ Valispace be happier, more productive and proud of what they do. 
+          I was mainly focused on driving full cycle recruitment processes and providing new joiners the best onboarding experiece possible. Working closely with our Head of People in the management of people-related processes, delivery of a great employee experience and improvement of our ways of working. 
+        
+        - layout: right
+          title: Hilton Diagonal Mar
+          sub_title: Recruitment Coordinator
+          caption: February 2018 - March 2019
+        quote: >
+          A Hilton Worldwide hotel based in Barcelona, Spain. 
+        description: | # this will include new lines to allow paragraph
+          The very beginning of my Recruitment career journey. Learned a lot about myself, my beliefs and interests which led me to abandon Human Resources in old school environments, and instead to join People teams in fast-paced, modern startups.  
   
   - title: Education
     layout: list
     content:
       - layout: top-right
-        title: Institution name
-        sub_title: Qualifications (eg. BA Performing Arts)
-        caption: Date Range (eg. 2016 - 2019)
-        quote: >
-          Short institution or course description (optional)
+        title: Hotelschool The Hague
+        sub_title: BA in Hospitality and Business Management
+        caption: 2014 - 2019
         description: | # this will include new lines to allow paragraphs
-          Description of qualification
-  - title: A Little More About Me
-    layout: text
-    content: | # this will include new lines to allow paragraphs
-      This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
-
-      Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
+          An international business and hospitality university based in the Netherlands. The typical cliché: loved studying abroad, it taught me much about resilience but nop! I'm not going to work in the field I studied.
 
 # Footer
 footer_show_references: true
