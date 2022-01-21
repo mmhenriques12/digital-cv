@@ -40,7 +40,7 @@ content:
         caption: May 2021 - present
         link: https://www.valispace.com/
         quote: >
-          The GitHub for hardware engineering. 
+          The GitHub for hardware engineering 
         description: | # this will include new lines to allow paragraphs
          Currently helping to build an agile, modern and human People department to guide Valispace's growth 🚀 Besides hiring and onboarding, I'm developing and implementing people-driven strategies and programs that help everyone feel supported and enabled to do their best work. 
       - layout: right
@@ -49,11 +49,15 @@ content:
         caption: November 2019 - May 2021
         link: https://www.codacy.com/
         quote: >
-          A DevOps Intelligence platform for automated code reviews. 
+          A DevOps Intelligence platform for automated code reviews 
         description: | # this will include new lines to allow paragraphs
           I was mainly focused on driving full cycle recruitment processes and providing new joiners the best onboarding experience possible. Working closely with our Head of People in the management of people-related processes, delivery of a great employee experience and improvement of our ways of working. 
-   
-
+      - layout: right
+        title: Hilton Diagonal Mar
+        sub_title: Recruitment Coordinator
+        caption: February 2018 - March 2019 
+        description: | # this will include new lines to allow paragraphs
+          The very beginning of my Recruitment career journey. Learned a lot about myself, my beliefs and interests which led me to abandon Human Resources in old school environments, and instead to join People teams in fast-paced, modern startups.
 # Footer
 footer_show_references: true
 # references_title: References on request (Override references text)
