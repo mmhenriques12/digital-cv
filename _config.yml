@@ -43,7 +43,7 @@ content:
           The GitHub for hardware engineering. 
         description: | # this will include new lines to allow paragraphs
          Currently helping to build an agile, modern and human People department to guide Valispace's growth 🚀 Besides hiring and onboarding, I'm developing and implementing people-driven strategies and programs that help everyone feel supported and enabled to do their best work. 
-         
+        
       - layout: right
         title: Codacy
         sub_title: Talent Acquisition and People Operations
@@ -62,7 +62,6 @@ content:
           A Hilton Worldwide hotel based in Barcelona, Spain. 
         description: | # this will include new lines to allow paragraph
           The very beginning of my Recruitment career journey. Learned a lot about myself, my beliefs and interests which led me to abandon Human Resources in old school environments, and instead to join People teams in fast-paced, modern startups.  
-  
   - title: Education
     layout: list
     content:
@@ -73,9 +72,10 @@ content:
         description: | # this will include new lines to allow paragraphs
           An international business and hospitality university based in the Netherlands. The typical cliché: loved studying abroad, it taught me much about resilience but nop! I'm not going to work in the field I studied.
 
+
 # Footer
 footer_show_references: true
-# references_title: Don't be shy and do reach out! (Override references text)
+# references_title: References on request (Override references text)
 
 # Build settings
 # theme: modern-resume-theme (Use this is you are hosting your resume yourself)
