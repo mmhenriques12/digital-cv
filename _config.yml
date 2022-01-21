@@ -55,9 +55,21 @@ content:
       - layout: right
         title: Hilton Diagonal Mar
         sub_title: Recruitment Coordinator
-        caption: February 2018 - March 2019 
+        caption: February 2018 - March 2019
+        quote: >
+          A Hilton Worldwide hotel based in Barcelona, Spain 
         description: | # this will include new lines to allow paragraphs
           The very beginning of my Recruitment career journey. Learned a lot about myself, my beliefs and interests which led me to abandon Human Resources in old school environments, and instead to join People teams in fast-paced, modern startups.
+  - title: Academic Background
+    layout: list
+    content:
+      - layout: top-right
+        title: Hotelschool The Hague
+        sub_title: BA Business & Hospitality Management
+        caption: 2014-2019
+        description: | # this will include new lines to allow paragraphs
+          An international business and hospitality university based in the Netherlands. The typical cliché: loved studying abroad, it taught me much about resilience but nop! I'm not going to work in the field I studied.
+          
 # Footer
 footer_show_references: true
 # references_title: References on request (Override references text)
