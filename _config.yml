@@ -43,7 +43,7 @@ content:
           The GitHub for hardware engineering. 
         description: | # this will include new lines to allow paragraphs
          Currently helping to build an agile, modern and human People department to guide Valispace's growth 🚀 Besides hiring and onboarding, I'm developing and implementing people-driven strategies and programs that help everyone feel supported and enabled to do their best work. 
-     - layout: right
+      - layout: right
         title: Codacy
         sub_title: Talent Acquisition and People Operations
         caption: November 2019 - May 2021
