@@ -72,7 +72,6 @@ content:
         description: | # this will include new lines to allow paragraphs
           An international business and hospitality university based in the Netherlands. The typical cliché: loved studying abroad, it taught me much about resilience but nop! I'm not going to work in the field I studied.
 
-
 # Footer
 footer_show_references: true
 # references_title: References on request (Override references text)
